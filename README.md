@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 - 💻 Web Developer passionate about building modern web applications  
 - 🚀 Focus on clean code & scalable systems  
-- 🎥 Sharing coding knowledge on TikTok: **Tùng Lập Trình**
+- 🎥 Sharing coding knowledge on TikTok: **Tùng Lập Trình 👨‍💻**
 
 ---
 
@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tùng dev 2k4&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tùng dev 2k4&theme=tokyonight" />
 </p>
 
 ---
@@ -55,10 +55,10 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+  <a href="https://www.tiktok.com/@Tùng Lập Trình 👨‍💻">
     <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Tùng dev 2k4">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
