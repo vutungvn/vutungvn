@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm a Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Vũ Văn Thanh Tùng 🧑‍🎓, Web Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+modern+web+applications;Learning+every+day;Sharing+coding+knowledge&center=true&width=500&height=45">
