@@ -1,7 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff&desc=React%20|%20Node.js%20|%20Docker%20|%20Redis%20|%20Firebase&descSize=18&descAlign=60" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,docker,redis,mongodb,firebase,git,github&theme=dark" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Vũ Văn Thanh Tùng 🧑‍🎓, Web Developer</h1>
 
