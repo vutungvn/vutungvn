@@ -39,15 +39,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vutungvn&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutungvn&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <a href="http://github.com/vutungvn">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=vutungvn&theme=tokyo-night&hide_border=true"
+      width="100%"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
 </p>
+
 
 ---
 
