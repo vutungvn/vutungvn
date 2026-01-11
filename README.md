@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=200&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff&desc=Backend%20|%20API%20|%20Docker%20|%20Redis%20|%20Cloud&descAlign=50" />
+  <a href="https://github.com/vutungvn">
+    <img src="assets/banner.png" alt="Banner" />
+  </a>
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Vũ Văn Thanh Tùng 🧑‍🎓, Web Developer</h1>
 
@@ -14,13 +14,15 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Web Developer passionate about building modern web applications  
-- 🚀 Focus on clean code & scalable systems  
+
+- 💻 Web Developer passionate about building modern web applications
+- 🚀 Focus on clean code & scalable systems
 - 🎥 Sharing coding knowledge on TikTok: **Tùng Lập Trình 👨‍💻**
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white" />
@@ -33,13 +35,15 @@
 ---
 
 ## ⚡ What I Do
-- 🌐 Build responsive web applications  
-- 🔥 Develop backend APIs & real-time features  
-- 📱 Create content to help beginners learn programming  
+
+- 🌐 Build responsive web applications
+- 🔥 Develop backend APIs & real-time features
+- 📱 Create content to help beginners learn programming
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <a href="http://github.com/vutungvn">
     <img 
@@ -50,15 +54,16 @@
   </a>
 </p>
 
-
 ---
 
 ## 🎯 Quote
-> 💡 *“First, solve the problem. Then, write the code.”*
+
+> 💡 _“First, solve the problem. Then, write the code.”_
 
 ---
 
 ## 🌐 Connect With Me
+
 <p>
   <a href="https://www.tiktok.com/@thanhtung2k4_">
     <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" />
