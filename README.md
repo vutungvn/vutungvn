@@ -39,11 +39,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tùng dev 2k4&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tùng dev 2k4&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vutungvn&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutungvn&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -58,7 +61,7 @@
   <a href="https://www.tiktok.com/@Tùng Lập Trình 👨‍💻">
     <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://github.com/Tùng dev 2k4">
+  <a href="https://github.com/vutungvn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
