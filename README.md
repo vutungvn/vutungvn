@@ -22,6 +22,8 @@
 - 💻 Web Developer passionate about building modern web applications
 - 🚀 Focus on clean code & scalable systems
 - 🎥 Sharing coding knowledge on TikTok: **Tùng Lập Trình 👨‍💻**
+- 🎓 I am a student at Hanoi University of Civil Engineering (Engineering program).
+- 📬 Contact me at: **tungvuvanthanh@gmail.com**
 
 ---
 
