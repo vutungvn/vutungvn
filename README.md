@@ -14,7 +14,6 @@
   />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -65,7 +64,7 @@
 # 🚀 Programming Languages Showcase 🌟
 
 <div align="center">
-  <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
+  <a href="https://go.dev/"><img src="./assets/developer.gif"></a>
 </div>
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,go)
@@ -109,8 +108,7 @@
 
 <!-- run image -->
 <div align="center">
-  <img src="./assets/man_run.png" width="250" height="250" />
-  <img width="200%" src="./assets/hr.gif" />
+  <img src="./assets/hacker.gif" width="250" height="250" />
 </div>
 
 ## 🎯 Quote
