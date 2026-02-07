@@ -62,6 +62,57 @@
 
 ---
 
+# 🚀 Programming Languages Showcase 🌟
+
+<div align="center">
+  <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
+</div>
+
+![Languages](https://skillicons.dev/icons?i=js,ts,go)
+
+## 🌐 Frontend
+
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,redux,tailwind,scss,mui,bootstrap,styledcomponents,html,css)
+
+## 💻 Backend
+
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,next,graphql,fastapi,rabbitmq)
+
+[![Knex](https://img.shields.io/badge/-Knex-DB4D6D?style=flat&logo=knex&logoColor=white)](https://knexjs.org/)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://profile-forme.com)
+
+## 🏛️ Database
+
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,redis)
+
+## ⚙️ DevOps
+
+![Others](https://skillicons.dev/icons?i=docker,vercel,netlify,nginx,heroku)
+
+[![Surge](https://img.shields.io/badge/-Surge-ff4081?style=flat-square&logo=surge&logoColor=white)](https://link-to-your-surge-profile)
+
+## 🤖 Source code management
+
+![Others](https://skillicons.dev/icons?i=github,gitlab)
+
+## 🧰 OS & IDE & Tools
+
+![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,git,markdown,linux,vscode)
+
+## ☁️ Cloud
+
+![Others](https://skillicons.dev/icons?i=aws,googlecloud,cloudflare)
+
+[![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://profile-forme.com)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.com)
+
+<!-- run image -->
+<div align="center">
+  <img src="./assets/man_run.png" width="250" height="250" />
+  <img width="200%" src="./assets/hr.gif" />
+</div>
+
 ## 🎯 Quote
 
 > 💡 _“First, solve the problem. Then, write the code.”_
