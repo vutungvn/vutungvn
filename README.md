@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+World');console.log('Vũ+Văn+Thanh+Tùng');console.log('Learn+React');console.log('Learn+Node.js')&center=true&width=500&height=45"
+    src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+World');console.log('I'm+Vũ+Văn+Thanh+Tùng');console.log('Learn+React');console.log('Learn+Node.js')&center=true&width=500&height=45"
     alt="Typing SVG"
   />
 </p>
