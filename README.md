@@ -126,7 +126,7 @@
   <a href="https://github.com/vutungvn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-   <a href="https://web.facebook.com/tungcode2k4/">
+   <a href="https://web.facebook.com/profile.php?id=61588592005522">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
